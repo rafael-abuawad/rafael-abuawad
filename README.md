@@ -109,7 +109,7 @@ I am a highly skilled software developer specializing in the exciting realm of B
     <a href="https://apeworx.io/" target="_blank">
         <img alt="Apeworx" src="https://img.shields.io/badge/Apeworx-9f4cf2?style=for-the-badge&logo=python&logoColor=white">
     </a>
-    <a href="https://nodejs.org" target="_blank">
+    <a href="https://archive.trufflesuite.com/" target="_blank">
         <img alt="Truffle" src="https://img.shields.io/badge/Truffle-000000?style=for-the-badge&logo=solidity&logoColor=white">
     </a>
     <a href="https://anchor-lang.com/" target="_blank">
@@ -141,13 +141,13 @@ I am a highly skilled software developer specializing in the exciting realm of B
     <a href="https://azure.microsoft.com/en-us" target="_blank">
         <img alt="Azure" src="https://img.shields.io/badge/Azure-512BD4?style=for-the-badge&logo=blazor&logoColor=white">
     </a>
-    <a href="https://www.cloudflare.com" target="_blank">
+    <a href="https://cloudflare.com" target="_blank">
         <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
     </a>
     <a href="https://git-scm.com" target="_blank">
         <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     </a>
-    <a href="https://www.postman.com" target="_blank">
+    <a href="https://postman.com" target="_blank">
         <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
     </a>
     <a href="https://numpy.org" target="_blank">
