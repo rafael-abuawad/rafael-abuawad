@@ -7,7 +7,7 @@ I am a highly skilled software developer specializing in the exciting realm of B
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-abuawad&layout=compact&langs_count=8&theme=tokyonight)
 
 ### 📚 Smart contract projects
-  - [🐉 Central Finite Curve Dragoons: NFT Collection](https://github.com/rafael-abuawad/snekmate) – A comprehensive NFT project featuring a gasless minting relayer, immersive frontend, and user-friendly experience built with 🐍[Vyper](https://github.com/vyperlang/vyper), 🦍[Apeworx](https://apeworx.io/), TypeScript, React, and PicoCSS.
+  - [🐉 Central Finite Curve Dragoons: NFT Collection](https://github.com/rafael-abuawad/central-finite-curve-dragoons) – A comprehensive NFT project featuring a gasless minting relayer, immersive frontend, and user-friendly experience built with 🐍[Vyper](https://github.com/vyperlang/vyper), 🦍[Apeworx](https://apeworx.io/), TypeScript, React, and PicoCSS.
 
   - [🦄 Uviswap: Decentralized Exchange](https://github.com/rafael-abuawad/uviswap) - Uviswap is a decentralized AMM platform for token swapping and liquidity provision, on it's repository we have its smart contracts, testing scripts, and deployment guides.
 
