@@ -11,7 +11,7 @@ I am a highly skilled software developer specializing in the exciting realm of B
 
   - [🦄 Uviswap: Decentralized Exchange](https://github.com/rafael-abuawad/uviswap) - Uviswap is a decentralized AMM platform for token swapping and liquidity provision, on it's repository we have its smart contracts, testing scripts, and deployment guides.
 
-  - [📜 Scrolling Habits: On-Chain Habit Tracker](https://github.com/rafael-abuawad/uviswap) - Scrolling Habits is an open-source, decentralized dApp that enables private, on-chain habit tracking and creation using a simple ERC721 smart contract on the Scroll Sepolia Testnet.
+  - [📜 Scrolling Habits: On-Chain Habit Tracker](https://github.com/rafael-abuawad/scrolling-habits) - Scrolling Habits is an open-source, decentralized dApp that enables private, on-chain habit tracking and creation using a simple ERC721 smart contract on the Scroll Sepolia Testnet.
 
 ### 📝 My Articles:
   - [🍱 Create a simple minting DApp using NextJS, Brownie, Solidity and TailwindCSS.](https://dev.to/rabuawad/create-a-simple-minting-dapp-using-nextjs-brownie-solidity-and-tailwindcss-29g9)
