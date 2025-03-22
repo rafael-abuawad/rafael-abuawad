@@ -7,11 +7,11 @@ I am a highly skilled software developer specializing in the exciting realm of B
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-abuawad&layout=compact&langs_count=8&theme=tokyonight)
 
 ### 📚 Smart contract projects
+  - [BOBC: Overcollateralized algorithmic stablecoin](https://github.com/rafael-abuawad/bobc-stablecoin) - Overcollateralized algorithmic stablecoin pegged to the BOB backed by Ether. Made with 🐍[Vyper](https://github.com/vyperlang/vyper), 🦍[Apeworx](https://apeworx.io/), TypeScript, React, and ShadCN.
+
   - [🐉 Central Finite Curve Dragoons: NFT Collection](https://github.com/rafael-abuawad/central-finite-curve-dragoons) – A comprehensive NFT project featuring a gasless minting relayer, immersive frontend, and user-friendly experience built with 🐍[Vyper](https://github.com/vyperlang/vyper), 🦍[Apeworx](https://apeworx.io/), TypeScript, React, and PicoCSS.
 
   - [🦄 Uviswap: Decentralized Exchange](https://github.com/rafael-abuawad/uviswap) - Uviswap is a decentralized AMM platform for token swapping and liquidity provision, on it's repository we have its smart contracts, testing scripts, and deployment guides.
-
-  - [📜 Scrolling Habits: On-Chain Habit Tracker](https://github.com/rafael-abuawad/scrolling-habits) - Scrolling Habits is an open-source, decentralized dApp that enables private, on-chain habit tracking and creation using a simple ERC721 smart contract on the Scroll Sepolia Testnet.
 
 ### 📝 My Articles:
   - [🍱 Create a simple minting DApp using NextJS, Brownie, Solidity and TailwindCSS.](https://dev.to/rabuawad/create-a-simple-minting-dapp-using-nextjs-brownie-solidity-and-tailwindcss-29g9)
@@ -45,10 +45,6 @@ I am a highly skilled software developer specializing in the exciting realm of B
     <a href="https://typescriptlang.org" target="_blank">
         <img alt="TypeScript"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     </a>
-    <a href="https://go.dev/" target="_blank">
-        <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-    </a>
-    <br>
     <a href="https://docs.soliditylang.org" target="_blank">
         <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
     </a>
@@ -77,12 +73,6 @@ I am a highly skilled software developer specializing in the exciting realm of B
     <a href="https://nextjs.org" target="_blank">
         <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
     </a>
-    <a href="https://angular.dev" target="_blank">
-        <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-    </a>
-    <a href="https://svelte.dev" target="_blank">
-        <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
-    </a>
     <a href="https://nestjs.com/" target="_blank">
         <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
     </a>
@@ -103,60 +93,20 @@ I am a highly skilled software developer specializing in the exciting realm of B
     <a href="https://github.com/foundry-rs/foundry" target="_blank">
         <img alt="Foundry" src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=solidity&logoColor=white">
     </a>
-    <a href="https://hardhat.org/" target="_blank">
-        <img alt="Harhat" src="https://img.shields.io/badge/hardhat-F7DF1E?style=for-the-badge&logo=solidity&logoColor=black">
-    </a>
     <a href="https://apeworx.io/" target="_blank">
         <img alt="Apeworx" src="https://img.shields.io/badge/Apeworx-9f4cf2?style=for-the-badge&logo=python&logoColor=white">
     </a>
-    <a href="https://archive.trufflesuite.com/" target="_blank">
-        <img alt="Truffle" src="https://img.shields.io/badge/Truffle-000000?style=for-the-badge&logo=solidity&logoColor=white">
-    </a>
-    <a href="https://anchor-lang.com/" target="_blank">
-        <img alt="Anchor" src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white">
-    </a>
-
-</p>
-
-#### Package, dependency, and environment management
-
-<p>
-    <a href="https://pypi.org/" target="_blank">
-        <img alt="PyPi" src="https://img.shields.io/badge/pypi-3775A9?&style=for-the-badge&logo=pypi&logoColor=white">
-    </a>
-    <a href="https://npmjs.com" target="_blank">
-        <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-    </a>
-    <a href="https://pnpm.io" target="_blank">
-        <img alt="pnpm" src="https://img.shields.io/badge/pnpm-%234a4a4a?style=for-the-badge&logo=pnpm&logoColor=f69220">
-    </a>
-    <a href="https://yarnpkg.com" target="_blank">
-        <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+    <a href="https://cyfrin.github.io/moccasin/" target="_blank">
+        <img alt="Moccasin" src="https://img.shields.io/badge/Moccasin-9f4cf2?style=for-the-badge&logo=python&logoColor=white">
     </a>
 </p>
 
 #### Toolings, platforms, infrastructure providers, and libraries
 
 <p>
-    <a href="https://azure.microsoft.com/en-us" target="_blank">
-        <img alt="Azure" src="https://img.shields.io/badge/Azure-512BD4?style=for-the-badge&logo=blazor&logoColor=white">
-    </a>
-    <a href="https://cloudflare.com" target="_blank">
-        <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
-    </a>
     <a href="https://git-scm.com" target="_blank">
         <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     </a>
-    <a href="https://postman.com" target="_blank">
-        <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-    </a>
-    <a href="https://numpy.org" target="_blank">
-        <img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank">
-        <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-    </a>
-    <br>
     <a href="https://wagmi.sh/" target="_blank">
         <img alt="Wagmi" src="https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&logo=wagmi&logoColor=white">
     </a>
