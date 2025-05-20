@@ -2,12 +2,17 @@
 
 ### ❓ About me
 
-I am a highly skilled software developer specializing in the exciting realm of Blockchain and Decentralized Applications. With over 6 years of professional experience, I have successfully crafted and delivered 30+ projects for diverse clients, ranging from individuals to small and large teams. My expertise lies in harnessing the power of cutting-edge technology.
+I'm a passionate software developer thriving in Web3 and modern web apps. Always building, learning, and exploring the latest tech trends. I code solo, but love working with teams. With 5+ years of experience, I've delivered 30+ projects for clients of all sizes, mastering cutting-edge tools to create dynamic solutions.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-abuawad&layout=compact&langs_count=8&theme=tokyonight)
+<a href="https://github.com/rafael-abuawad">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-abuawad&theme=merko" />
+</a>
+<a href="https://github.com/rafael-abuawad">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-abuawad&layout=compact&langs_count=8&theme=merko&card_width=320" />
+</a>
 
 ### 📚 Smart contract projects
-  - [💶 BOBC: Overcollateralized algorithmic stablecoin](https://github.com/rafael-abuawad/bobc-stablecoin) - Overcollateralized algorithmic stablecoin pegged to the BOB backed by Ether. Made with 🐍[Vyper](https://github.com/vyperlang/vyper), 🦍[Apeworx](https://apeworx.io/), TypeScript, React, and ShadCN.
+  - [💶 BOBC: Overcollateralized algorithmic stablecoin](https://github.com/rafael-abuawad/bobc-stablecoin) - Overcollateralized algorithmic stablecoin pegged to the BOB backed by Ether. Made with 🐍[Vyper](https://github.com/vyperlang/vyper), 🦍[Apeworx](https://apeworx.io/), TypeScript, React, and ShadCN. **Base Latam hackathon winner.**
 
   - [🐉 Central Finite Curve Dragoons: NFT Collection](https://github.com/rafael-abuawad/central-finite-curve-dragoons) – A comprehensive NFT project featuring a gasless minting relayer, immersive frontend, and user-friendly experience built with 🐍[Vyper](https://github.com/vyperlang/vyper), 🦍[Apeworx](https://apeworx.io/), TypeScript, React, and PicoCSS.
 
