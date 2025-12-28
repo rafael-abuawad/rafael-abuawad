@@ -2,7 +2,7 @@
 
 ### ❓ About me
 
-I'm a passionate software developer thriving in Web3 and modern web apps. Always building, learning, and exploring the latest tech trends. I code solo, but love working with teams. With 5+ years of experience, I've delivered 30+ projects for clients of all sizes, mastering cutting-edge tools to create dynamic solutions.
+I'm a software developer thriving in Web3 and modern web apps. Always building, learning, and exploring the latest tech trends. I code solo, but love working with teams. With 5+ years of experience, I've delivered 30+ projects for clients of all sizes, mastering cutting-edge tools to create dynamic solutions.
 
 <a href="https://github.com/rafael-abuawad">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-abuawad&theme=merko" />
