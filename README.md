@@ -9,10 +9,10 @@
   </p>
 
   <a href="https://github.com/rafael-abuawad">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=rafael-abuawad&show_icons=true&theme=transparent&hide_border=true&title_color=9f4cf2&text_color=fff" />
+    <img height="160" src="https://github-stats-extended.vercel.app/api?username=rafael-abuawad&hide_title=true&disable_animations=true&theme=chartreuse-dark" />
   </a>
   <a href="https://github.com/rafael-abuawad">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-abuawad&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=9f4cf2&text_color=fff" />
+    <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs?username=rafael-abuawad&layout=donut&langs_count=4&disable_animations=true&theme=chartreuse-dark" />
   </a>
 </div>
 
@@ -20,7 +20,7 @@
 
 ### Tech Stack
 
-| Core | Web Frameworks | Smart Contracts | Tooling |
+| Core | Web | Smart Contracts | Tooling |
 | :--- | :--- | :--- | :--- |
 | ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TS](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Next](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![TanStack](https://img.shields.io/badge/-TanStack-black?style=flat-square&logo=tanstack) | ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity) ![Vyper](https://img.shields.io/badge/-Vyper-black?style=flat-square&logo=ethereum) ![Foundry](https://img.shields.io/badge/-Foundry-black?style=flat-square&logo=solidity) | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Wagmi](https://img.shields.io/badge/-Wagmi-black?style=flat-square&logo=wagmi) ![Bun](https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun) |
 
