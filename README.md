@@ -2,7 +2,7 @@
   <h1>Hi, I'm Rafael</h1>
   <h3>Web3 Specialist & Full Stack Developer</h3>
   <p>
-    <b>Vyper</b> • <b>Python</b> • <b>TypeScript</b> • <b>React</b>
+    <b>Vyper</b> • <b>Solidity</b> • <b>Python</b> • <b>TypeScript</b> • <b>React</b>
   </p>
   <p>
     Building decentralized solutions with 5+ years of experience. Focused on EVM, smart contract research, Ethereum development, and crafting the best onchain UX.
@@ -31,7 +31,7 @@
 > <br> An overcollateralized, Ether-backed stablecoin pegged to BOB.
 > <br> 🛠 `Vyper` `Apeworx` `TypeScript` `React`
 
-#### 💷 [Pasanaku: Decentralized ROSCA](https://github.com/rafael-abuawad/pasanaku)
+#### 💷 [Pasanaku: Decentralized ROSCA](https://github.com/orgs/PasanakuOnchain/repositories)
 > **🥈 Arbitrum Open House Hackathon**
 > <br> A decentralized Rotating Savings and Credit Association protocol.
 > <br> 🛠 `Vyper` `Moccasin` `TypeScript` `React`
