@@ -26,15 +26,15 @@
 
 ### Featured Projects
 
+#### 💷 [Pasanaku: Decentralized ROSCA](https://github.com/orgs/PasanakuOnchain/repositories)
+> [**🌐 Onchain and live!**](https://www.pasanaku.fun/)
+> <br> A decentralized Rotating Savings and Credit Association protocol.
+> <br> 🛠 `Solidity` `Foundry` `TypeScript` `React`
+
 #### 💶 [BOBC: Algorithmic Stablecoin](https://github.com/rafael-abuawad/bobc-stablecoin)
 > **🥇 Base Latam Hackathon Winner**
 > <br> An overcollateralized, Ether-backed stablecoin pegged to BOB.
 > <br> 🛠 `Vyper` `Apeworx` `TypeScript` `React`
-
-#### 💷 [Pasanaku: Decentralized ROSCA](https://github.com/orgs/PasanakuOnchain/repositories)
-> **🥈 Arbitrum Open House Hackathon**
-> <br> A decentralized Rotating Savings and Credit Association protocol.
-> <br> 🛠 `Vyper` `Moccasin` `TypeScript` `React`
 
 ### Connect & Read
 
