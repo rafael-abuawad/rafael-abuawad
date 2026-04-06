@@ -27,23 +27,23 @@
 ### Featured Projects
 
 #### 💷 [Pasanaku: Decentralized ROSCA](https://github.com/orgs/PasanakuOnchain/repositories)
-> [**🌐 Onchain and live!**](https://www.pasanaku.fun/)
+> **Onchain and live!**
 > <br> A decentralized Rotating Savings and Credit Association protocol.
 > <br> 🛠 `Solidity` `Foundry` `TypeScript` `React`
+<img width="480" height="1182" alt="image2" src="https://github.com/user-attachments/assets/39bc637b-4065-4ee3-911e-0ad0ba6bbec2" />
 
 #### 💶 [BOBC: Algorithmic Stablecoin](https://github.com/rafael-abuawad/bobc-stablecoin)
 > **🥇 Base Latam Hackathon Winner**
 > <br> An overcollateralized, Ether-backed stablecoin pegged to BOB.
 > <br> 🛠 `Vyper` `Apeworx` `TypeScript` `React`
+<img width="480" height="360" alt="image1" src="https://github.com/user-attachments/assets/56c085ae-ea20-4ddd-999d-1164c27f3e42" />
+
 
 ### Connect & Read
 
 <p align="left">
-  <a target="_blank" href="https://dev.to/rabuawad">
-    <img src="https://img.shields.io/badge/Dev.to-Read_Articles-black?style=flat-square&logo=dev.to" alt="Dev.to">
-  </a>
   <a target="_blank" href="https://paragraph.xyz/@rabuawad"> <img src="https://img.shields.io/badge/Paragraph-Español-blue?style=flat-square&logo=paragraph" alt="Paragraph">
   </a>
-  <a target="_blank" href="https://twitter.com/rabuawad_"> <img src="https://img.shields.io/badge/X-Follow_Me-black?style=flat-square&logo=x" alt="Twitter">
+  <a target="_blank" href="https://x/rabuawad_"> <img src="https://img.shields.io/badge/X-Follow_Me-black?style=flat-square&logo=x" alt="Twitter">
   </a>
 </p>
