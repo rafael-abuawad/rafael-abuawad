@@ -30,13 +30,13 @@
 > **Onchain and live!**
 > <br> A decentralized Rotating Savings and Credit Association protocol.
 > <br> 🛠 `Solidity` `Foundry` `TypeScript` `React`
-<img width="480" height="1182" alt="image2" src="https://github.com/user-attachments/assets/39bc637b-4065-4ee3-911e-0ad0ba6bbec2" />
+<img width="480" height="270" alt="image2" src="https://github.com/user-attachments/assets/39bc637b-4065-4ee3-911e-0ad0ba6bbec2" />
 
 #### 💶 [BOBC: Algorithmic Stablecoin](https://github.com/rafael-abuawad/bobc-stablecoin)
 > **🥇 Base Latam Hackathon Winner**
 > <br> An overcollateralized, Ether-backed stablecoin pegged to BOB.
 > <br> 🛠 `Vyper` `Apeworx` `TypeScript` `React`
-<img width="480" height="360" alt="image1" src="https://github.com/user-attachments/assets/56c085ae-ea20-4ddd-999d-1164c27f3e42" />
+<img width="480" height="270" alt="image1" src="https://github.com/user-attachments/assets/56c085ae-ea20-4ddd-999d-1164c27f3e42" />
 
 
 ### Connect & Read
