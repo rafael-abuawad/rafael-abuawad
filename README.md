@@ -29,7 +29,7 @@
 #### 💷 [Pasanaku: Decentralized ROSCA](https://github.com/orgs/PasanakuOnchain/repositories)
 > **Onchain and live!**
 > <br> A decentralized Rotating Savings and Credit Association protocol.
-> <br> 🛠 `Solidity` `Foundry` `TypeScript` `React`
+> <br> 🛠 `Vyper` `Moccasin + Boa` `TypeScript` `React`
 <img width="480" height="270" alt="image2" src="https://github.com/user-attachments/assets/39bc637b-4065-4ee3-911e-0ad0ba6bbec2" />
 
 #### 💶 [BOBC: Algorithmic Stablecoin](https://github.com/rafael-abuawad/bobc-stablecoin)
